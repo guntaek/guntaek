@@ -14,12 +14,12 @@
 ## 🛠 Tech Stack
 ### Language
 <!-- Java -->
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
 </p>
 
 ### Framework
-<p align="Center">
+<p align="left">
 <!-- Spring -->
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 <!-- Spring Boot -->
@@ -27,11 +27,18 @@
 </p>
 
 ### ETC
-<p align="center">
+<p align="left">
 <!-- Slack -->
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 <!-- MySQL -->
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+</p>
+
+## 🎯 Baekjoon Tier
+<p align="center">
+  <a href="https://solved.ac/YOUR_BAEKJOON_ID">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=rjsxor7584"/>
+  </a>
 </p>
 
 <!-- 깃허브 통계 -->
